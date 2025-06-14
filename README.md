@@ -57,6 +57,7 @@ src/
 ```
 
 📬 Contact Form Setup (EmailJS)
+
 1.Create an account at EmailJS
 
 2.Create a new email service and template
@@ -69,6 +70,6 @@ src/
 4.Test the contact form to confirm it's sending emails.
 
 
-⭐ Give a Star
 If you like this project, hit on ⭐.
+
 ![staring pic](./src/assets/webstars.jpg)
