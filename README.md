@@ -32,27 +32,29 @@ A clean, responsive, and animated portfolio website built using **React**, **Tai
 To run the portfolio locally:
 
 1.Clone the Repository
-
-```bash
+```
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-
+```
 2. Install Dependencies
+```
 npm install
-
-3. Start the Development Server
+```
+4. Start the Development Server
+```
 npm run dev
-
+```
 Then open your browser at http://localhost:5173.
 
 📂 Folder Structure
+```
 src/
 ├── assets/         # Images (including screenshot, icons)
 ├── components/     # React components like Navbar, About, Projects, etc.
 ├── App.jsx         # Main app layout
 ├── main.jsx        # Entry point
 └── index.css       # Tailwind CSS styles
-
+```
 
 📬 Contact Form Setup (EmailJS)
 1.Create an account at EmailJS
@@ -68,4 +70,5 @@ src/
 
 
 ⭐ Give a Star
-If you like this project, hit on ⭐.(./src/assets/webstars.jpg)
+If you like this project, hit on ⭐.
+![staring pic](./src/assets/webstars.jpg)
